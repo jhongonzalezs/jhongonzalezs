@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="URL_DE_TU_IMAGEN_AQUI" alt="Jhon Jairo Gonzalez" width="100%" style="border-radius: 10px;" />
+  <img src="https://imagetourl.cloud/9mwynhxz71fj.jpg" alt="Jhon Jairo Gonzalez" width="100%" style="border-radius: 10px;" />
   
   <h1>Jhon Jairo González Sánchez</h1>
   <p><b>Ingeniero de Sistemas | Desarrollador Full Stack</b></p>
