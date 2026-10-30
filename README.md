@@ -97,7 +97,7 @@ Creo firmemente que las mejores soluciones nacen de la colaboración y la comuni
 *(Aquí es donde te enfocas en lo que programas, sin poner empresas)*
 
 - **Lisa Assistance (Terpel):** Colaboré en el desarrollo de una plataforma de asistencia digital y soporte técnico para empleados y clientes. Mi enfoque estuvo en la estabilidad del sistema y la integración de servicios. *(Puedes visitar la plataforma aquí: [lisaassistance.terpel.com](https://lisaassistance.terpel.com))*.
-- **Meqaleasing Corp:** Diseñé y desarrollé el sitio web corporativo desde cero, incluyendo la arquitectura del backend con C#, .NET y SQL Server. Puedes ver el resultado en [meqaleasing-corp.vercel.app](https://meqaleasing-corp.vercel.app).
+- **Meqaleasing Corp:** Diseñé y desarrollé el sitio web corporativo desde cero, incluyendo la arquitectura del backend con C#, .NET y SQL Server. Puedes ver el resultado en [meqaleasing-corp.vercel.app](https://megaleasing-corp.vercel.app/).
 - **Investigación Académica:** Publiqué un artículo científico en [Google Scholar](https://scholar.google.com/citations?hl=es&user=xAHpPWYAAAAJ) como opción de grado, enfocado en [menciona el tema del artículo si quieres, o deja solo el enlace].
 - **Explora mi GitHub:** Siempre estoy subiendo proyectos personales, pruebas de concepto y experimentos. Échales un vistazo en mis [repositorios](https://github.com/jhongonzalezs).
 
@@ -106,8 +106,8 @@ Creo firmemente que las mejores soluciones nacen de la colaboración y la comuni
 ### 📊 Mis números en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhongonzalezs&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhongonzalezs&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="160" />
+  <img src="https://github-stats-extended.vercel.app/api?username=jhongonzalezs&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="160" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jhongonzalezs&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="160" />
 </div>
 
 <br/>
