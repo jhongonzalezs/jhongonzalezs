@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://imagetourl.cloud/9mwynhxz71fj.jpg" alt="Jhon Jairo Gonzalez" width="100%" style="border-radius: 10px;" />
   
-  <h1>¡Hola! Soy Jhon Jairo 👋</h1>
+  <h1>¡Hola! Soy Jhon Gonzalez 👋</h1>
   <p><b>Ingeniero de Sistemas | Desarrollador Full Stack</b></p>
   
   <a href="https://linkedin.com/in/jhon-gonzalez-web-developer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
