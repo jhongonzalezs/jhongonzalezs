@@ -1,27 +1,77 @@
-# 💫 About Me:
-Hola, soy Jhon Jairo Gonzalez, un entusiasta desarrollador con una pasión desbordante por la programación y un hambre constante de aprendizaje.<br><br>🔭 **Trabajando en**<br>- Desarrollo web innovador y eficiente.<br>- Mejora de experiencias de usuario a través de interfaces intuitivas.<br><br>👯 **Buscando colaborar en**<br>- Proyectos desafiantes y creativos.<br>- Iniciativas que fomenten el código abierto.<br><br>🌱 **Aprendiendo**<br>- Técnicas avanzadas de desarrollo frontend.<br>- Estrategias eficientes en el desarrollo backend.<br><br>💬 **Pregúntame sobre**<br>- Desarrollo web full-stack.<br>- Desarrollo mobile.<br>- Arquitectura de software y diseño de sistemas.<br><br>⚡ **Dato curioso**<br>- Disfruto resolviendo acertijos de programación en mi tiempo libre.<br><br>Con habilidades sólidas en desarrollo web, estoy comprometido a crear soluciones tecnológicas que superen las expectativas. Explora mi repositorio para conocer más sobre mi enfoque innovador. ¡Estoy emocionado por conectar y colaborar en proyectos emocionantes! 🚀
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tu-usuario/tu-usuario/main/assets/banner.png" alt="Jhon Jairo Gonzalez Banner" width="100%" />
+  
+  <h1>¡Hola! Soy Jhon Jairo González Sánchez 👋</h1>
+  <h3>Ingeniero de Sistemas | Desarrollador Full Stack</h3>
 
+  <p>
+    <a href="https://linkedin.com/in/jhon-gonzalez-web-developer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://jhongonzalezs.github.io/miportafolio.github.io/"><img src="https://img.shields.io/badge/Portafolio-121013?style=for-the-badge&logo=github&logoColor=white" alt="Portafolio"/></a>
+    <a href="mailto:gonzalezsanchezjhonjairo1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  </p>
+</div>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/jhonjairo.gonsalezsanchez.7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-gonzalez-web-developer/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://es.quora.com/profile/Jhon-Jairo-Gonzalez-Sanchez) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22311544/jhon-jairo-gonzalez-sanchez) 
+<br/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jhongonzalezs&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jhongonzalezs&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jhongonzalezs&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 👨‍💻 Sobre mí
+Ingeniero de Sistemas con formación técnica del SENA y universitaria. Me apasiona construir aplicaciones estables, eficientes y fáciles de mantener. Tengo experiencia desarrollando soluciones para el sector energético, plataformas de asistencia digital y mejorando sistemas empresariales. Disfruto el trabajo en equipo, la comunicación clara y siempre estoy abierto a aprender nuevas herramientas. 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jhongonzalezs&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+> *"Además del código, tengo interés por la lectura, la escritura y la investigación; publiqué un artículo académico como opción de grado, lo que me ayuda a pensar con más claridad y a comunicar mejor las ideas."*
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🛠️ Tecnologías Core
+*Enfocado en soluciones backend robustas y frontend modernos.*
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jhongonzalezs&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<div align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+</div>
+
+<details>
+  <summary><b>Ver stack completo (Otras herramientas y bases de datos)</b></summary>
+  <br/>
+  <p><b>Bases de Datos:</b> MySQL, Firebase</p>
+  <p><b>DevOps:</b> Git, GitHub, Jira, AWS S3</p>
+  <p><b>Arquitectura:</b> Microservicios, APIs REST, POO, Clean Code</p>
+</details>
+
+<br/>
+
+## 💼 Experiencia Destacada
+
+**Desarrollador Full Stack | DevelopApp** *(Ago 2025 - Sept 2026)*
+*   Desarrollo y mantenimiento de aplicaciones empresariales para el sector energético.
+*   Participación en **Lisa Assistance**: plataforma de asistencia digital para empleados y clientes de Terpel.
+*   Implementación de mejoras aplicando **SSD (Spec-Driven Development)** y colaboración en equipos ágiles (Jira/Git).
+
+**Desarrollador Web | Meqaleasing Corp.** *(Ene 2025 - Jul 2025)*
+*   Diseño y desarrollo completo de la página web corporativa moderna y responsiva.
+*   Creación de módulos backend en C# y .NET integrados con APIs REST y SQL Server.
+*   *Resultado:* [meqaleasing-corp.vercel.app](https://meqaleasing-corp.vercel.app)
+
+## 🚀 Logros y Proyectos
+*   🎓 **Publicación Científica:** Artículo académico publicado en [Google Scholar](https://scholar.google.com/citations?hl=es&user=xAHpPWYAAAAJ).
+*   👨‍🏫 **Monitor Académico:** Universidad de la Costa (CUC) en Fundamentos de Programación y Algoritmos (2023-2024).
+*   🏆 **Certificaciones:** [Diploma de Grado CUC](https://app.certika.co/badges/Mzl4ODk=) | [Semillero de Investigación](https://app.certika.co/badges/NDMyNQ==).
+*   🌐 **Portafolio Web:** [jhongonzalezs.github.io](https://jhongonzalezs.github.io/miportafolio.github.io/)
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jhongonzalezs&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhongonzalezs&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="150" />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jhongonzalezs&icon=5&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <i>Abierto a colaborar en proyectos desafiantes y de código abierto. ¡Conectemos! 🚀</i>
+</div>
