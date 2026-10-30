@@ -94,7 +94,6 @@ Creo firmemente que las mejores soluciones nacen de la colaboración y la comuni
 ---
 
 ### 🚀 Proyectos y Contribuciones
-*(Aquí es donde te enfocas en lo que programas, sin poner empresas)*
 
 - **Lisa Assistance (Terpel):** Colaboré en el desarrollo de una plataforma de asistencia digital y soporte técnico para empleados y clientes. Mi enfoque estuvo en la estabilidad del sistema y la integración de servicios. *(Puedes visitar la plataforma aquí: [lisaassistance.terpel.com](https://lisaassistance.terpel.com))*.
 - **Meqaleasing Corp:** Diseñé y desarrollé el sitio web corporativo desde cero, incluyendo la arquitectura del backend con C#, .NET y SQL Server. Puedes ver el resultado en [meqaleasing-corp.vercel.app](https://megaleasing-corp.vercel.app/).
